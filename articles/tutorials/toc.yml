@@ -22,3 +22,5 @@
   href: stream_weapons.md
 - name: Stream Audio Occlusions
   href: stream_audio_occlusions.md
+- name: Setup Grafana
+  href: setup_grafana.md
