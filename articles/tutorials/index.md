@@ -12,4 +12,5 @@
 [Stream Sounds](stream_sounds.md) \
 [Stream Tattoos](stream_tattoos.md) \
 [Stream Vehicles](stream_vehicles.md) \
-[Stream Weapons](stream_weapons.md)
+[Stream Weapons](stream_weapons.md) \
+[Setup Grafana](setup_grafana.md)
